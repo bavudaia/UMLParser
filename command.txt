@@ -1,0 +1,17 @@
+-- cd to the Folder where  jar file, yuml-master folder, umlparser.sh , umlparser.bar resides
+--Windows Commands
+
+umlparser "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-1\uml-parser-test-1" test-1.png
+umlparser "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-2\uml-parser-test-2" test-2.png
+umlparser "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-3\uml-parser-test-3" test-3.png
+umlparser "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-4\uml-parser-test-4" test-4.png
+umlparser "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-5\uml-parser-test-5" test-5.png
+
+--Linux commands
+
+chmod u+x umlparser.sh
+./umlparser.sh "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-1\uml-parser-test-1" test-1.png
+./umlparser.sh "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-2\uml-parser-test-2" test-2.png
+./umlparser.sh "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-3\uml-parser-test-3" test-3.png
+./umlparser.sh "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-4\uml-parser-test-4" test-4.png
+./umlparser.sh "C:\Users\Bala\Desktop\202 - SSE\UML Parser Project\uml-parser-test-5\uml-parser-test-5" test-5.png
